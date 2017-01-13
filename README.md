@@ -41,12 +41,13 @@
 -------------------
 
 
-## Ler 5 livros sobre finanças/investimentos/business/empreendedorismo (0/5)
-1. Os segredos da mente milionária (finalizar)
-2. Geração de Valor 1
-3. Geração de Valor 2
-4. O Poder do Hábito - Por Que Fazemos o Que Fazemos na Vida e Nos Negócios (Charles Duhigg)
-5. Os princípios de investimento de Warren Buffett (James Pardoe)
+## Ler 6 livros sobre finanças/investimentos/business/empreendedorismo (0/6)
+1. O poder do agora (Eckhart Tolle) (finalizar)
+2. Os segredos da mente milionária (finalizar)
+3. Geração de Valor 1
+4. Geração de Valor 2
+5. O Poder do hábito - Por Que Fazemos o Que Fazemos na Vida e Nos Negócios (Charles Duhigg)
+6. Os princípios de investimento de Warren Buffett (James Pardoe)
 
 -------------------
 
