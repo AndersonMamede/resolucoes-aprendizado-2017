@@ -43,10 +43,10 @@
 
 ## Ler 5 livros sobre finanças/investimentos/business/empreendedorismo (0/5)
 1. Os segredos da mente milionária (finalizar)
-2. Geração de Valor 1 (iniciar)
-3. Geração de Valor 2 (iniciar)
-4. Você e seu dinheiro (Carl Richards) (iniciar)
-5. Os princípios de investimento de Warren Buffett (James Pardoe) (iniciar)
+2. Geração de Valor 1
+3. Geração de Valor 2
+4. O Poder do Hábito - Por Que Fazemos o Que Fazemos na Vida e Nos Negócios (Charles Duhigg)
+5. Os princípios de investimento de Warren Buffett (James Pardoe)
 
 -------------------
 
