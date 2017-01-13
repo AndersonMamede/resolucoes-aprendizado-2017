@@ -7,6 +7,8 @@
 
 
 ## Fazer 12 contribuições para projetos open source (0/12)
+1. https://github.com/erichlotto/play-music-lyrics-fetcher/pull/12
+2. https://github.com/erichlotto/play-music-lyrics-fetcher/pull/13
 
 -------------------
 
