@@ -81,5 +81,8 @@
 1. https://www.linkedin.com/pulse/desculpe-já-não-é-mais-só-pelo-salário-flavia-gamonar
 2. https://www.linkedin.com/pulse/35-coisas-que-você-deve-fazer-pela-sua-carreira-até-anos-castilho
 3. https://www.linkedin.com/pulse/é-sempre-mais-fácil-para-quem-vai-flavia-gamonar
+4. https://uxdesign.cc/dear-web-designer-let-s-stop-breaking-the-affordance-of-scrolling-fe8bf258df7b
+5. http://uxmyths.com/post/647473628/myth-people-read-on-the-web
+6. http://uxmyths.com/post/654047943/myth-people-dont-scroll
 
 -------------------
