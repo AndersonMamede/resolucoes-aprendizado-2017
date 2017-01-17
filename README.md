@@ -84,5 +84,6 @@
 4. https://uxdesign.cc/dear-web-designer-let-s-stop-breaking-the-affordance-of-scrolling-fe8bf258df7b
 5. http://uxmyths.com/post/647473628/myth-people-read-on-the-web
 6. http://uxmyths.com/post/654047943/myth-people-dont-scroll
+7. https://css-tricks.com/thing-know-gradients-transparent-black/
 
 -------------------
