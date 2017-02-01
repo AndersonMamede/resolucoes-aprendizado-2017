@@ -75,7 +75,7 @@
 
 
 ## Ler 365 artigos
-###### _Assuntos: Business, Carreira, Tecnologia, Programação e assuntos relacionados
+###### _Assuntos: Business, Carreira, Vida, Tecnologia, Programação
 ###### _Artigos a serem lidos novamente estão marcados em negrito_
 
 1. https://www.linkedin.com/pulse/desculpe-já-não-é-mais-só-pelo-salário-flavia-gamonar
