@@ -24,7 +24,7 @@
 
 
 ## :heavy_check_mark: Criar 1 projeto utilizando tecnologias recém aprendidas (1/1)
-1. DigitalizadorWebPML - software desenvolvido com [**Electron**](https://github.com/electron){:target="_blank"} e Node.js para integração entre aplicações web, usuários e dispositivos de scanner. *Para uso interno na Prefeitura Municipal de Limeira.*
+1. DigitalizadorWebPML - software desenvolvido com [Electron](https://github.com/electron){:target="_blank"} e Node.js para integração entre aplicações web, usuários e dispositivos de scanner. *Para uso interno na Prefeitura Municipal de Limeira.*
 
 -------------------
 
