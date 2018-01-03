@@ -29,7 +29,7 @@
 -------------------
 
 
-## Implementar novas funcionalidades (socilitadas) no app LCF/Lembrete de Contas Fácil (1/1)
+## :heavy_check_mark: Implementar novas funcionalidades (socilitadas) no app LCF/Lembrete de Contas Fácil (1/1)
 1. "Esqueci minha senha" - página para recuperar a senha
 
 -------------------
