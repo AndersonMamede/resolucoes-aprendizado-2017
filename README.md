@@ -29,8 +29,8 @@
 -------------------
 
 
-## Implementar novas funcionalidades (socilitadas) no app LCF/Lembrete de Contas Fácil (0/1)
-1. Relatórios
+## Implementar novas funcionalidades (socilitadas) no app LCF/Lembrete de Contas Fácil (1/1)
+1. "Esqueci minha senha" - página para recuperar a senha
 
 -------------------
 
