@@ -2,18 +2,18 @@
 
 
 ## Escrever 12 artigos para o blog (3/12)
-http://blog.andersonmamede.com.br/breadcrumbs-and-schema-markup/
-http://blog.andersonmamede.com.br/changing-or-hiding-grid-column-when-exporting-to-xls-or-pdf-scriptcase/
-http://blog.andersonmamede.com.br/creating-an-extension-part-1-quick-start-with-boilerplate/
+0. http://blog.andersonmamede.com.br/breadcrumbs-and-schema-markup/
+0. http://blog.andersonmamede.com.br/changing-or-hiding-grid-column-when-exporting-to-xls-or-pdf-scriptcase/
+0. http://blog.andersonmamede.com.br/creating-an-extension-part-1-quick-start-with-boilerplate/
 
 -------------------
 
 
 ## Fazer 12 contribuições para projetos open source (4/12)
-1. https://github.com/erichlotto/play-music-lyrics-fetcher/pull/12
-2. https://github.com/erichlotto/play-music-lyrics-fetcher/pull/13
-3. https://github.com/phpdocbrbridge/traducao/pull/40
-4. https://github.com/phpdocbrbridge/traducao/pull/41
+0. https://github.com/erichlotto/play-music-lyrics-fetcher/pull/12
+0. https://github.com/erichlotto/play-music-lyrics-fetcher/pull/13
+0. https://github.com/phpdocbrbridge/traducao/pull/40
+0. https://github.com/phpdocbrbridge/traducao/pull/41
 
 -------------------
 
@@ -23,7 +23,7 @@ http://blog.andersonmamede.com.br/creating-an-extension-part-1-quick-start-with-
 -------------------
 
 
-## Criar 1 projeto utilizando tecnologias recém aprendidas (1/1)
+## :heavy_check_mark: Criar 1 projeto utilizando tecnologias recém aprendidas (1/1)
 1. DigitalizadorWebPML - software desenvolvido com [**Electron**](https://github.com/electron){:target="_blank"} e Node.js para integração entre aplicações web, usuários e dispositivos de scanner. *Para uso interno na Prefeitura Municipal de Limeira.*
 
 -------------------
@@ -35,13 +35,13 @@ http://blog.andersonmamede.com.br/creating-an-extension-part-1-quick-start-with-
 -------------------
 
 
-## Criar 1 extensão para navegador (1/1)
+## :heavy_check_mark: Criar 1 extensão para navegador (1/1)
 1. Cleaner Reading (para uso pessoal)
 
 -------------------
 
 
-## Continuar a criação do jogo SpaceBattle (1/1)
+## :heavy_check_mark: Continuar a criação do jogo SpaceBattle (1/1)
 1. Desenvolvido a nave (jogador) e seus controles de movimentos
 
 -------------------
@@ -64,7 +64,7 @@ http://blog.andersonmamede.com.br/creating-an-extension-part-1-quick-start-with-
 -------------------
 
 
-## Estudar/dominar 2 assuntos em inglês (2/2)
+## :heavy_check_mark: Estudar/dominar 2 assuntos em inglês (2/2)
 1. Present Perfect Tense (continuar)
 2. Prepositions (continuar)
 
