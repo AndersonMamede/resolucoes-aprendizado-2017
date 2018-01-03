@@ -1,7 +1,10 @@
 # Resoluções de Aprendizado 2017
 
 
-## Escrever 12 artigos para o blog (0/12)
+## Escrever 12 artigos para o blog (3/12)
+http://blog.andersonmamede.com.br/breadcrumbs-and-schema-markup/
+http://blog.andersonmamede.com.br/changing-or-hiding-grid-column-when-exporting-to-xls-or-pdf-scriptcase/
+http://blog.andersonmamede.com.br/creating-an-extension-part-1-quick-start-with-boilerplate/
 
 -------------------
 
@@ -20,7 +23,8 @@
 -------------------
 
 
-## Criar 1 projeto utilizando tecnologias recém aprendidas (0/1)
+## Criar 1 projeto utilizando tecnologias recém aprendidas (1/1)
+1. DigitalizadorWebPML - software desenvolvido com [**Electron**](https://github.com/electron){:target="_blank"} e Node.js para integração entre aplicações web, usuários e dispositivos de scanner. *Para uso interno na Prefeitura Municipal de Limeira.*
 
 -------------------
 
@@ -31,12 +35,14 @@
 -------------------
 
 
-## Criar 1 extensão para navegador (0/1)
+## Criar 1 extensão para navegador (1/1)
+1. Cleaner Reading (para uso pessoal)
 
 -------------------
 
 
-## Continuar a criação do jogo SpBat (0/1)
+## Continuar a criação do jogo SpaceBattle (1/1)
+1. Desenvolvido a nave (jogador) e seus controles de movimentos
 
 -------------------
 
@@ -52,13 +58,13 @@
 -------------------
 
 
-## Ler 3 livros em inglês (0/3)
+## Ler 3 livros em inglês (1/3)
 1. The Little Prince
 
 -------------------
 
 
-## Estudar/dominar 2 assuntos em inglês (0/2)
+## Estudar/dominar 2 assuntos em inglês (2/2)
 1. Present Perfect Tense (continuar)
 2. Prepositions (continuar)
 
